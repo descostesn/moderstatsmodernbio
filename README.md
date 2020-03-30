@@ -31,7 +31,7 @@ ppois(q = 9, lambda = 12, lower.tail = FALSE)
 ppois(q = 1, lambda = 0.5, lower.tail = FALSE)
 ```
 
-**Tip:** 'd' gives a density, 'p' gives a distribution (at least, more than if lower.tail is false, lower than is true).
+**Tip:** 'd' gives a density, 'p' gives a distribution (at least, more than if lower.tail is false, lower than if true).
 
 
 ### 1.3.1 Bernoulli trials/1.3.2 Binomial success counts
